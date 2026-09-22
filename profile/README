@@ -1,0 +1,44 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/320522336?s=200&v=4" width="150" alt="Logo ELEMENTARES"/>
+  
+  <h1>Equipe ELEMENTARES</h1>
+  <p>Estudantes de <strong>Desenvolvimento de Software Multiplataforma</strong> | Fatec São José dos Campos</p>
+</div>
+
+---
+
+## 📌 Sobre a Organização
+
+Esta é a organização central da equipe **ELEMENTARES**. Aqui consolidamos todos os repositórios responsáveis pelo nosso sistema do **4º Semestre** (Aprendizagem por Projetos Integrados). 
+
+Este perfil serve como ponto de partida para navegar entre a nossa documentação, interface, serviços backend e o nosso dashboard de métricas de engenharia.
+
+### 🎯 Objetivo do Projeto
+
+> O Pulso Urbano é uma rede de estações de baixo custo que mede continuamente a qualidade do ar e as condições do clima — como temperatura, umidade, vento e chuva. Os dados ficam disponíveis para o usuário em painéis, relatórios e séries históricas, e a plataforma avisa automaticamente quando algum valor ultrapassa um limite considerado preocupante, ajudando a acompanhar as condições ambientais e tomar decisões com base em informação confiável.
+
+## 👥 Nossa Equipe <a id="equipe"></a>
+
+| Nome                            | Função                       | Redes Sociais                                                                                                                                                                                                                                                                                                                              |
+| :------------------------------ | :--------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ana Graciano**          | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ane-Graciano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-graciano/) |
+| **Enzo Gabriel de Paula** | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EnzoGabrielCode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-gabriel-de-paula-8795a8332/) |
+| **Gustavo Rosa**          | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gustasvos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rosa-46a251180/) |
+| **João Moura**            | Scrum Master                 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JoaooMoura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoomoura/) |
+| **João Vitor Siqueira**  | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kakashinho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-siqueira-a2a2a3227/) |
+| **Laís Zanardi**          | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lais-zanardi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lais-zanardi-inocencio/) |
+| **Lucas Inácio**          | Product Owner (PO) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lukitta013) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luucasinacioo/) |
+| **Pedro Nascimento**      | Dev Team                     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/P3dr0213) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nascimento-87a22937a/) |
+## 📁 Repositórios do Sistema
+
+O desenvolvimento da nossa solução foi modularizado para garantir melhor organização e escabilidade. Navegue pelos nossos repositórios:
+
+*   [**API-4SEMESTRE**](https://github.com/ELEMENTARES-DSM/API-4SEMESTRE) - Repositório central com a documentação do projeto, manuais, atas e todas as entregas estruturadas por Sprints.
+*   [**BACKEND-4SEMESTRE**](https://github.com/ELEMENTARES-DSM/BACKEND-4SEMESTRE) - Toda a camada de dados e lógica de negócio (TypeScript). 
+*   [**FRONTEND-4SEMESTRE**](https://github.com/ELEMENTARES-DSM/FRONTEND-4SEMESTRE) - Interface de usuário construída para interação com a plataforma (TypeScript).
+*   [**SprintView**](https://github.com/ELEMENTARES-DSM/SprintView) - Nossa ferramenta interna (Python) para acompanhar métricas ágeis, contribuições e gestão de commits do time.
+
+---
+<p align="center">
+  <i>Desenvolvido pela equipe ELEMENTARES -  2º Semestre de 2026</i>
+</p>
